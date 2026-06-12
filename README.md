@@ -1,25 +1,32 @@
-# tech-hiring-notes
-Technical hiring notes, sourcing strategies, and AI-assisted recruiter workflows.
+# 🧠 Tech Hiring Notes (AI Recruiting Toolkit)
 
-A collection of recruiter-focused technical hiring notes, sourcing strategies, and AI-assisted evaluation methods.
+This repository contains practical recruiting tools, sourcing strategies, and AI-assisted workflows used in technical hiring.
 
-## Focus Areas
-- Full Stack Hiring
-- Backend Evaluation
-- Frontend Screening
-- LinkedIn/X-ray Sourcing
-- AI-assisted recruitment workflows
+---
 
-## Background
-Built from practical experience in:
-- IT recruitment
-- technical sourcing
-- candidate evaluation
-- hiring calibration
+## 🔎 What is inside
 
-## Current Topics
-- Node.js + React evaluation
-- TypeScript screening
-- Kafka/Redis understanding
-- Resume quality analysis
-- Recruiter workflow optimization
+### Boolean Search Strings
+Ready-to-use search queries for finding candidates.
+
+### LinkedIn X-Ray Search
+Google-based techniques to find profiles on LinkedIn.
+
+### Candidate Sourcing Framework
+Simple step-by-step process for sourcing candidates.
+
+### AI Recruiting Prompts
+AI-based templates for:
+- Screening candidates
+- Writing outreach messages
+- Understanding job descriptions
+
+---
+
+## 🎯 Purpose
+To make technical hiring faster, structured, and more efficient using both traditional sourcing and AI tools.
+
+---
+
+## 📌 Status
+Actively being improved with new sourcing methods and AI workflows.
